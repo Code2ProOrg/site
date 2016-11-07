@@ -36,6 +36,14 @@ li.next-lecture a.item {
     margin-bottom: 0 !important;
 }
 
+.testimonial-item:nth-child(odd) .testimonial-heading h2 {
+    text-align: left !important;
+}
+
+.testimonial-item:nth-child(even) .testimonial-heading h2 {
+    text-align: right !important;
+}
+
 footer {
     background-color: #38414E;
 }
