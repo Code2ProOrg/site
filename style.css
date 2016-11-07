@@ -10,8 +10,9 @@
     background-color: #38414E;
 }
 
-.nav.navbar-nav > li .fedora-navbar-link.active, .nav.navbar-nav > li .fedora-navbar-link:hover {
-    background-color: #39949A !important;
+.nav.navbar-nav > li .fedora-navbar-link.active,
+.nav.navbar-nav > li .fedora-navbar-link:hover {
+    background-color: #EA2848 !important;
     color: #ffffff !important;
 }
 
