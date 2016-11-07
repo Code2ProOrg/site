@@ -15,14 +15,14 @@ var TESTIMONIALS = [
         "text": "Video hướng dẫn về git rất hữu ích và đi thẳng vào trọng tâm.  Người dạy có kiến thức tốt và có tâm. Hy vọng chương trình tiếp tục được phát triển để giúp đỡ anh em dev nhiều hơn."
     },
     {
-        "name": "Nhan Tran",
-        "url": "https://github.com/nhantd",
-        "text": "Code review process is strict, yet extremely useful, in order to make your code highly optimized, extensible, and easy to test. This is best part of doing the exercise as you get to know the quality code review at top tech companies."
-    },
-    {
         "name": "Lê Trung Chánh",
         "url": "https://github.com/giaosudau",
         "text": "Reviewer tâm huyết có response time cực thấp submit PR cái là review ngay."
+    },
+    {
+        "name": "Nhan Tran",
+        "url": "https://github.com/nhantd",
+        "text": "Code review process is strict, yet extremely useful, in order to make your code highly optimized, extensible, and easy to test. This is best part of doing the exercise as you get to know the quality code review at top tech companies."
     },
     {
         "name": "Tran Thai Nguyen",
