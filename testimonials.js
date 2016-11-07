@@ -20,14 +20,14 @@ var TESTIMONIALS = [
         "text": "Reviewer tâm huyết có response time cực thấp submit PR cái là review ngay."
     },
     {
-        "name": "Nhan Tran",
-        "url": "https://github.com/nhantd",
-        "text": "Code review process is strict, yet extremely useful, in order to make your code highly optimized, extensible, and easy to test. This is best part of doing the exercise as you get to know the quality code review at top tech companies."
-    },
-    {
         "name": "Tran Thai Nguyen",
         "url": "https://github.com/thainguyentran",
         "text": "Câu hỏi đi từ dễ tới khó. Thời gian từ khi vừa nộp code tới lúc có comment về code, review, yêu cầu chỉnh sửa là rất ngắn, gần như ngay lập tức. Người tạo ra series rất có tâm huyết, điều đó có thể thấy qua phần chuẩn bị trước khi đưa ra thử thách và sau khi nộp câu trả lời của các thành viên thì có bình luận, chỉ dẫn, hướng dẫn để chỉnh sửa code tốt hơn."
+    },
+    {
+        "name": "Nhan Tran",
+        "url": "https://github.com/nhantd",
+        "text": "Code review process is strict, yet extremely useful, in order to make your code highly optimized, extensible, and easy to test. This is best part of doing the exercise as you get to know the quality code review at top tech companies."
     },
     {
         "name": "Thao Tran",
