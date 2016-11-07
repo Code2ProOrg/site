@@ -1,0 +1,41 @@
+.navbar-fedora {
+    background-color: rgba(11, 72, 107, 0.97);
+}
+
+.navbar-course-hero.is-scrolling {
+    background-color: rgba(11, 72, 107, 0.97);
+}
+
+.is-scrolling {
+    background-color: rgba(11, 72, 107, 0.97);
+}
+
+.nav.navbar-nav > li .fedora-navbar-link.active, .nav.navbar-nav > li .fedora-navbar-link:hover {
+    background-color: #39949A !important;
+    color: #ffffff !important;
+}
+
+li.section-item a.item:hover {
+    background-color: rgba(253, 185, 19, 0.7) !important;
+}
+
+li.next-lecture a.item {
+    background-color: rgba(253, 185, 19, 0.6) !important;
+}
+
+.next-lecture-wrapper {
+    background-color: #f8eed5 !important;
+}
+
+.testimonial-item {
+    margin-top: 30px;
+}
+
+.testimonial-heading h2 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+footer {
+    background-color: rgba(11, 72, 107, 0.97);
+}
