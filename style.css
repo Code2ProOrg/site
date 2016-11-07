@@ -1,3 +1,7 @@
+#navbar {
+    border-bottom: 0 !important;
+}
+
 .navbar-fedora {
     background-color: #38414E;
 }
