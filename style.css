@@ -1,13 +1,13 @@
 .navbar-fedora {
-    background-color: rgba(11, 72, 107, 0.97);
+    background-color: #38414E;
 }
 
 .navbar-course-hero.is-scrolling {
-    background-color: rgba(11, 72, 107, 0.97);
+    background-color: #38414E;
 }
 
 .is-scrolling {
-    background-color: rgba(11, 72, 107, 0.97);
+    background-color: #38414E;
 }
 
 .nav.navbar-nav > li .fedora-navbar-link.active, .nav.navbar-nav > li .fedora-navbar-link:hover {
@@ -37,5 +37,5 @@ li.next-lecture a.item {
 }
 
 footer {
-    background-color: rgba(11, 72, 107, 0.97);
+    background-color: #38414E;
 }
