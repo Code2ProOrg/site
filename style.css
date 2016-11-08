@@ -41,12 +41,19 @@ li.next-lecture a.item {
     margin-bottom: 0 !important;
 }
 
-.testimonial-item:nth-child(odd) .testimonial-heading h2 {
-    text-align: left !important;
+.testimonial-giver {
+    float: left;
+    width: 49%;
 }
 
-.testimonial-item:nth-child(even) .testimonial-heading h2 {
-    text-align: right !important;
+.testimonial-social {
+    float: right;
+    text-align: right;
+    width: 49%;
+}
+
+.cleardiv {
+    clear: both;
 }
 
 footer {
